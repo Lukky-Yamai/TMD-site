@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+<nav>
+    <ul>
+        <img src="lo2.0.png.jpeg">
+        <li><a href="#inicio">inicio</a></li>
+        <li><a href="#nossaempresa">nossa empresa</a></li>
+        <li><a href="#produto">produto</a></li>
+        <li><a href="#sobrenos">sobre nos</a></li>
+        <li><a href="#feedback">feedback dos clientes</a></li>
+        <li><a href="#contato">contato</a></li>
+    </ul>
+</nav>
+<main>
+    <section id="inicio">
+        <div id=text>
+            <h1>O Futuro Aqui <br>&<br><span>Agora!</span></h1>
+            <img src="lo2.0.png.jpeg">
+        </div>
+
+    </section>
+
+    <section id="nossaempresa">
+        <div id="text">
+            <h1>SDG-MK1</h1><br>
+            <h2>Uma empresa tecnologica que pensa fora da caixa</h2><br>
+            <h3>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h3>
+
+        </div>
+
+    </section>
+    <section id="produto">produto</section>
+    <section id="sobrenos">sobrenos</section>
+    <section id="feedback">feedback</section>
+    <section id="contato">contato</section>
+</main>
+
+</body>
+</html>
