@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 9rem;
+    position: fixed;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    padding-top: 3rem;
+}
+
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav ul img{
+    height: 80px;
+    width: 80px;
+    padding-left: 10px;
+    align-items: center;
+}
+
+section{
+    min-height: 100vh;
+    padding-top: 3rem;
+    width: 100%;
+}
+
+#inicio{
+    background-color: #86b65e;
+    height: 600px;
+
+}
+
+#inicio h1{
+    font-size: 85px;  
+    padding: 100px;
+}
+
+#inicio div{
+    display: flex;
+    margin-top: 40px;
+    gap: 13rem;
+}
+
+#inicio img{
+    height:500px;
+    width: 500px;
+}
+
+#inicio span{
+    font-size: 94px;
+    color: aqua;
+}
+
+#nossaempresa{
+    background-color: rgb(160, 83, 233);
+    height: 900px;
+    
+}
+
+#nossaempresa h1{
+    font-size: 60px;
+    font-family: fantasy;
+    color: beige;
+    padding-left: 40%;
+}
+
+#nossaempresa h2{
+    font-size: 60px;
+    font-family: fantasy;
+    color: beige;
+    padding-left: 8%;
+}
+
+#nossaempresa h3{
+    font-size: 60px;
+    font-family: fantasy;
+    color: beige;
+    padding-left: 3%;
+}
+#produto{
+    background-color: brown;
+}
+
+#sobrenos{
+    background-color: aquamarine;
+}
+
+#feedback{
+    background-color: rgb(72, 42, 148);
+}
+
+#contato{
+    background-color: rgb(231, 231, 55);
+}
